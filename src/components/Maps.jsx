@@ -106,7 +106,7 @@ const Maps = () => {
               {setCoordinates()}
         {/* <h1>Your Given Location</h1> */}
           <h1 className='info-map text-white font-semibold font-sans'>The location you provided in the last section is shown in this map section.</h1>
-        <h1 className='info-map text-gray-500 font-normal font-sans'>*You can Enable Marker to select or change a specific location on the map</h1>
+        <h1 className='info-map text-gray-500 font-normal font-sans'>*You can Enable Marker to mark a specific location on the map</h1>
         <div className="map-search">
           <button
             id="toggleSelectModeButton"

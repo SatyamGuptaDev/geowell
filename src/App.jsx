@@ -24,6 +24,9 @@ function App() {
     AOS.refresh();
   }, []);
 
+
+  
+
   return (
     <>
       <div className='body-app' >
