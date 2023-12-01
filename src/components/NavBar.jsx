@@ -132,7 +132,7 @@ const GetStartedButton = () => {
                   Projects
                 </NavLink>
               </li>
-              <li>
+{/*               <li>
                 <NavLink
                   to="/contact"
                   className={`block py-2 pl-3 pr-4 text-white rounded md:bg-opacity-0 md:text-white md:p-0 md:dark:text-gray-100 hover:text-blue-700 ${activeLink === 'contact' ? 'active' : ''}`}
@@ -140,7 +140,7 @@ const GetStartedButton = () => {
                 >
                   Developers
                 </NavLink>
-              </li>
+              </li> */}
             </ul>
           </div>
         </div>
